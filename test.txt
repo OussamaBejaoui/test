@@ -1,2 +1,3 @@
-git config --global user.name "OussamaBejaoui"
-git config --global user.email "oussemabejaoui996@gmail.com"
+
+push
+
